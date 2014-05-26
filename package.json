@@ -1,0 +1,22 @@
+{
+    "author": {
+        "name": "Seth McGuinness"
+    },
+    "name": "mfl-api",
+    "description": "API Wrapper for MyFantasyLeague.com",
+    "homepage": "https://github.com/smcguinness/mfl-api",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:smcguinness/mfl-api.git"
+    },
+    "main": "./lib/mfl",
+    "dependencies": {
+        "request": "~2.36.0",
+        "underscore": "~1.6.0"
+    },
+    "devDependencies": {},
+    "optionalDependencies": {},
+    "engines": {
+        "node": "*"
+    }
+}
